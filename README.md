@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# 💫About Me :
+### 💫About Me :
 - 💻 Tech enthusiast 
 - 👨‍💻 Full-stack developer in training 
 - 🌟 Open-source contributor 
